@@ -38,7 +38,7 @@ This project enables users to:
 To install required dependencies:
 
 ```bash
-npm install qrcode inquirer
+npm install inquirer qr-image 
 ```
 
 ---
