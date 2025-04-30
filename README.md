@@ -28,7 +28,7 @@ This project enables users to:
 - **Node.js** – JavaScript runtime
 - **JavaScript (ES6)** – Scripting language
 - **npm Packages**:
-  - **qrcode** – To generate QR code images
+  - **qr-image** – To generate QR code images
   - **inquirer** – To interactively prompt user input via terminal
 
 ---
